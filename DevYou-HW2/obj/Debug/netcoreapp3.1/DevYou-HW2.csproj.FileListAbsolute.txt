@@ -1,0 +1,12 @@
+/Users/Eli/Projects/DevYou-HW2/DevYou-HW2/bin/Debug/netcoreapp3.1/DevYou-HW2.deps.json
+/Users/Eli/Projects/DevYou-HW2/DevYou-HW2/bin/Debug/netcoreapp3.1/DevYou-HW2.runtimeconfig.json
+/Users/Eli/Projects/DevYou-HW2/DevYou-HW2/bin/Debug/netcoreapp3.1/DevYou-HW2.runtimeconfig.dev.json
+/Users/Eli/Projects/DevYou-HW2/DevYou-HW2/bin/Debug/netcoreapp3.1/DevYou-HW2.dll
+/Users/Eli/Projects/DevYou-HW2/DevYou-HW2/bin/Debug/netcoreapp3.1/DevYou-HW2.pdb
+/Users/Eli/Projects/DevYou-HW2/DevYou-HW2/obj/Debug/netcoreapp3.1/DevYou-HW2.csprojAssemblyReference.cache
+/Users/Eli/Projects/DevYou-HW2/DevYou-HW2/obj/Debug/netcoreapp3.1/DevYou-HW2.AssemblyInfoInputs.cache
+/Users/Eli/Projects/DevYou-HW2/DevYou-HW2/obj/Debug/netcoreapp3.1/DevYou-HW2.AssemblyInfo.cs
+/Users/Eli/Projects/DevYou-HW2/DevYou-HW2/obj/Debug/netcoreapp3.1/DevYou-HW2.csproj.CoreCompileInputs.cache
+/Users/Eli/Projects/DevYou-HW2/DevYou-HW2/obj/Debug/netcoreapp3.1/DevYou-HW2.dll
+/Users/Eli/Projects/DevYou-HW2/DevYou-HW2/obj/Debug/netcoreapp3.1/DevYou-HW2.pdb
+/Users/Eli/Projects/DevYou-HW2/DevYou-HW2/obj/Debug/netcoreapp3.1/DevYou-HW2.genruntimeconfig.cache

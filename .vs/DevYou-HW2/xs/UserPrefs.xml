@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D6D43BEB-25BB-47D1-A24F-E7CA308CADC2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DevYou-HW2/Program.cs">
+    <Files>
+      <File FileName="DevYou-HW2/Program.cs" Line="11" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DevYou-HW2" expanded="True">
+            <Node name="DevYou-HW2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DevYou-HW2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
