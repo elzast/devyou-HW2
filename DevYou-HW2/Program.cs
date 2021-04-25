@@ -47,13 +47,13 @@ namespace DevYou_HW2
             double amountPaidPerPerson = totalOfBill / peoplePaying;
             Console.WriteLine($"The amount owed per person is {amountPaidPerPerson}");
 
-    /*Challenge: Formatting Money
-    This challenge may require using a developer’s most utilized tool; Google.There are several different ways to format money. When we say format money - we are basically asking to write a string that shows money as you’d see it on a price tag(like this → $199.95).
+            /*Challenge: Formatting Money
+            This challenge may require using a developer’s most utilized tool; Google.There are several different ways to format money. When we say format money - we are basically asking to write a string that shows money as you’d see it on a price tag(like this → $199.95).
 
-    Formatting a double(or decimal) requires you to
-    show a $ sign, 
-    a decimal and
-    two digits after the decimal*/
+            Formatting a double(or decimal) requires you to
+            show a $ sign, 
+            a decimal and
+            two digits after the decimal*/
 
             //Requirements:
             //Create a double variable and assign it value
@@ -62,6 +62,12 @@ namespace DevYou_HW2
             //i.e. $10 should print as $10.00
             //Make sure commas are separated for every three digits to the left of the decimal point
             //I.e. $1000 should print as $1, 000.00
+
+            decimal testNumber = 5212.6312M;
+            Console.WriteLine(testNumber.ToString("C"));
+
+            double testNumber2 = 533333.33;
+            Console.WriteLine(testNumber2.ToString("C"));
 
 
         }
